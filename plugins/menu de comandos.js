@@ -234,7 +234,6 @@ let menu =`
 ┣ ඬ⃟👾 _${usedPrefix}spamwa *numero|texto|cantidad*_
 ┣ ඬ⃟👾 _${usedPrefix}readqr *responde a un código QR*_
 ┣ ඬ⃟👾 _${usedPrefix}anime *random / waifu / husbu /neko*_
-┣ ඬ⃟👾 _${usedPrefix}subirestado *texto / responder video, imagen o gif*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<COMANDOS +18/>*
